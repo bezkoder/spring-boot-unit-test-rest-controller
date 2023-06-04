@@ -1,6 +1,6 @@
 package com.bezkoder.spring.test.model;
 
-import javax.persistence.*;
+import jakarta.persistence.*;
 
 @Entity
 @Table(name = "tutorials")

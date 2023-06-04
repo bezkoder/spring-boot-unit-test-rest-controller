@@ -4,6 +4,8 @@ Apply Spring Boot <code>@WebMvcTest</code> for Rest Controller Unit Test with JU
 For more detail, please visit:
 > [Spring Boot Rest Controller Unit Test with @WebMvcTest](https://www.bezkoder.com/spring-boot-webmvctest/)
 
+> [Spring Boot Unit Test for JPA Repository example](https://www.bezkoder.com/spring-boot-unit-test-jpa-repo-datajpatest/)
+
 The code gives you an additional unit test for following Rest APIs example:
 > [Spring Boot + H2](https://www.bezkoder.com/spring-boot-jpa-h2-example/)
 
@@ -20,7 +22,7 @@ The code gives you an additional unit test for following Rest APIs example:
 > [Spring Data + Cassandra](https://www.bezkoder.com/spring-boot-cassandra-crud/)
 
 More Practice:
-> [Spring Boot Unit Test for JPA Repository example](https://www.bezkoder.com/spring-boot-unit-test-jpa-repo-datajpatest/)
+> [Spring Boot Validate Request Body](https://www.bezkoder.com/spring-boot-validate-request-body/)
 
 > [Spring JPA @Query example: Custom query in Spring Boot](https://www.bezkoder.com/spring-jpa-query/)
 
@@ -32,9 +34,20 @@ More Practice:
 
 > [Spring Data JPA Sort/Order by multiple Columns | Spring Boot](https://www.bezkoder.com/spring-data-sort-multiple-columns/)
 
-> [Spring Boot Repository Unit Test with @DataJpaTest](https://www.bezkoder.com/spring-boot-unit-test-jpa-repo-datajpatest/)
+> Cache the result: [Spring Boot Redis Cache example](https://www.bezkoder.com/spring-boot-redis-cache-example/)
+
+> Documentation: [Spring Boot with Swagger 3 example](https://www.bezkoder.com/spring-boot-swagger-3/)
+
+> Reactive Rest API: [Spring Boot WebFlux example](https://www.bezkoder.com/spring-boot-webflux-rest-api/)
+
+Exception Handling:
+> [Spring Boot @ControllerAdvice & @ExceptionHandler example](https://www.bezkoder.com/spring-boot-controlleradvice-exceptionhandler/)
+
+> [@RestControllerAdvice example in Spring Boot](https://www.bezkoder.com/spring-boot-restcontrolleradvice/)
 
 Associations:
+> [Spring Boot One To One example with Spring JPA, Hibernate](https://www.bezkoder.com/jpa-one-to-one/)
+
 > [Spring Boot One To Many example with Spring JPA, Hibernate](https://www.bezkoder.com/jpa-one-to-many/)
 
 > [Spring Boot Many To Many example with Spring JPA, Hibernate](https://www.bezkoder.com/jpa-many-to-many/)
